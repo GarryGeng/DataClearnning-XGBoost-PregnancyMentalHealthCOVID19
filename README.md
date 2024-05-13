@@ -1,7 +1,7 @@
 # DataClearnning-XGBoost-PregnancyMentalHealthCOVID19
 Data Clearnning and XGBoost training on PregnancyMentalHealthCOVID19<br>
 Below is the overview of the whole process.<br>
-You can find the detailed process in [Stage1_DataCleaningReport](https://github.com/GarryGeng/DataClearnning-XGBoost-PregnancyMentalHealthCOVID19/blob/main/Stage1_DataCleaningReport.pdf) and [Stage2_XGBoostModelReport](https://github.com/GarryGeng/DataClearnning-XGBoost-PregnancyMentalHealthCOVID19/blob/main/Stage2_XGBoostModelReport.pdf).
+You can find the detailed process in [Stage1_DataCleaningReport](https://github.com/GarryGeng/XGBoost-DataClearnning-PregnancyMentalHealthCOVID19/blob/main/Stage1_DataCleaningReport.pdf) and [Stage2_XGBoostModelReport](https://github.com/GarryGeng/XGBoost-DataClearnning-PregnancyMentalHealthCOVID19/blob/main/Stage2_XGBoostModelReport.pdf).
 ## Data Clearning
 
 1. **Normalization and Encoding**<br>
