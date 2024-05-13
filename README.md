@@ -10,7 +10,7 @@ You can find the detailed process in [Stage1_DataCleaningReport](https://github.
 
 2. **Fill the Missing Value By uisng**<br>
 - Iterative Imputer with Random Forest Regressor, <br>
-- K-nearest neighbors (kNN) algorithm, <br>
+- K-nearest neighbors (KNN) algorithm, <br>
 - Kernel Density Estimation (KDE)<br>
 
 ## Model Training
@@ -26,4 +26,5 @@ You can find the detailed process in [Stage1_DataCleaningReport](https://github.
 4. **Model Evaluation**
 - F1 score
 - Precision
+- Confusion Matrix
 - AUC-ROC
